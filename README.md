@@ -1,2 +1,2 @@
-# Python-Laboratory
-The repository for the python laboratory tasks.
+Name: Samson Ioan-Paul
+Group: 3A6

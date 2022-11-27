@@ -1,0 +1,1 @@
+Paul a reusit sa faca chiar 2 regex-uri complicate.py
